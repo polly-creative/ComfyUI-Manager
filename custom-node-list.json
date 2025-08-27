@@ -32111,6 +32111,10 @@
             "title": "Emissive-Color Node",
             "id": "emissive-color",
             "reference": "https://github.com/polly-creative/emissive-color",
+            "files": [
+                "https://github.com/polly-creative/emissive-color"
+            ],
+            "install_type": "git-clone",
             "description": "A custom ComfyUI node that extracts the dominant color from an image to use as an emissive texture",
             "tags": ["emissive", "color", "effect"]
         }
